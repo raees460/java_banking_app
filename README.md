@@ -1,1 +1,1 @@
-# java_banking_app
+Developed a console-based banking application using object-oriented principles like inheritance, method overloading/overriding, and constructors. Implemented features such as deposit, withdrawal, and balance check with user input via Scanner. # java_banking_app
